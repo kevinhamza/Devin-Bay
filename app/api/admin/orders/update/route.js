@@ -1,6 +1,6 @@
 import {connectDB} from "@/lib/mongodb"
 import {cookies} from "next/headers"
-import Order from "../../../../models/Order"
+import Order from "@/models/Order.js"
 import {NextResponse} from "next/server"
 import jwt from "jsonwebtoken"
 

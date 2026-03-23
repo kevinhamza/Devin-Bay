@@ -1,5 +1,5 @@
 import {connectDB} from "@/lib/mongodb"
-import Product from "@/models/Product"
+import Product from "@/models/Products.js"
 import {NextResponse} from "next/server"
 import jwt from "jsonwebtoken"
 
