@@ -1,5 +1,7 @@
 # Devin Bay
 
+The simple e-shopping website.
+
 # Getting Started
 
 First, run the development server:
